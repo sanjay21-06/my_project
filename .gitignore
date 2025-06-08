@@ -1,0 +1,31 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+._*
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Java build files
+*.class
+*.jar
+*.war
+*.ear
+*.log
+bin/
+build/
+target/
+out/
+
+# Gradle/Maven
+.gradle/
+.mvn/
+
+# Temporary and swap files
+*.tmp
+*.swp
+*~
